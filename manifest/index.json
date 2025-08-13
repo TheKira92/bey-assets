@@ -1,0 +1,1277 @@
+{
+  "schema": 1,
+  "version": "2025-08-13+150",
+  "parts": {
+    "blade": [
+      {
+        "id": "bite-croc-bx",
+        "name": "Bite Croc",
+        "short": "Bite Croc",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/bite_croc.webp",
+        "aliases": []
+      },
+      {
+        "id": "black-shell-bx",
+        "name": "Black Shell",
+        "short": "Black Shell",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/black_shell.webp",
+        "aliases": []
+      },
+      {
+        "id": "cobalt-dragoon-bx",
+        "name": "Cobalt Dragoon",
+        "short": "Cobalt Dragoon",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/cobalt_dragoon.webp",
+        "aliases": []
+      },
+      {
+        "id": "crimson-garuda-bx",
+        "name": "Crimson Garuda",
+        "short": "Crimson Garuda",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/crimson_garuda.webp",
+        "aliases": []
+      },
+      {
+        "id": "dran-dagger-bx",
+        "name": "Dran Dagger",
+        "short": "Dran Dagger",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/dran_dagger.webp",
+        "aliases": []
+      },
+      {
+        "id": "dran-sword-bx",
+        "name": "Dran Sword",
+        "short": "Dran Sword",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/dran_sword.webp",
+        "aliases": []
+      },
+      {
+        "id": "gill-shark-bx",
+        "name": "Gill Shark",
+        "short": "Gill Shark",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/gill_shark.webp",
+        "aliases": []
+      },
+      {
+        "id": "hells-chain-bx",
+        "name": "Hells Chain",
+        "short": "Hells Chain",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/hells_chain.webp",
+        "aliases": []
+      },
+      {
+        "id": "hells-scythe-bx",
+        "name": "Hells Scythe",
+        "short": "Hells Scythe",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/hells_scythe.webp",
+        "aliases": []
+      },
+      {
+        "id": "knife-shinobi-bx",
+        "name": "Knife Shinobi",
+        "short": "Knife Shinobi",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/knife_shinobi.webp",
+        "aliases": []
+      },
+      {
+        "id": "knight-lance-bx",
+        "name": "Knight Lance",
+        "short": "Knight Lance",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/knight_lance.webp",
+        "aliases": []
+      },
+      {
+        "id": "knight-shield-bx",
+        "name": "Knight Shield",
+        "short": "Knight Shield",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/knight_shield.webp",
+        "aliases": []
+      },
+      {
+        "id": "leon-claw-bx",
+        "name": "Leon Claw",
+        "short": "Leon Claw",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/leon_claw.webp",
+        "aliases": []
+      },
+      {
+        "id": "perseus-bx",
+        "name": "Perseus",
+        "short": "Perseus",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/perseus.webp",
+        "aliases": []
+      },
+      {
+        "id": "phoenix-wing-bx",
+        "name": "Phoenix Wing",
+        "short": "Phoenix Wing",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/phoenix_wing.webp",
+        "aliases": []
+      },
+      {
+        "id": "rhino-horn-bx",
+        "name": "Rhino Horn",
+        "short": "Rhino Horn",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/rhino_horn.webp",
+        "aliases": []
+      },
+      {
+        "id": "roar-tyranno-bx",
+        "name": "Roar Tyranno",
+        "short": "Roar Tyranno",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/roar_tyranno.webp",
+        "aliases": []
+      },
+      {
+        "id": "samurai-calibur-bx",
+        "name": "Samurai Calibur",
+        "short": "Samurai Calibur",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/samurai_calibur.webp",
+        "aliases": []
+      },
+      {
+        "id": "samurai-saber-bx",
+        "name": "Samurai Saber",
+        "short": "Samurai Saber",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/samurai_saber.webp",
+        "aliases": []
+      },
+      {
+        "id": "savage-bear-bx",
+        "name": "Savage Bear",
+        "short": "Savage Bear",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/savage_bear.webp",
+        "aliases": []
+      },
+      {
+        "id": "shark-edge-bx",
+        "name": "Shark Edge",
+        "short": "Shark Edge",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/shark_edge.webp",
+        "aliases": []
+      },
+      {
+        "id": "shelter-drake-bx",
+        "name": "Shelter Drake",
+        "short": "Shelter Drake",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/shelter_drake.webp",
+        "aliases": []
+      },
+      {
+        "id": "shinobi-shadow-bx",
+        "name": "Shinobi Shadow",
+        "short": "Shinobi Shadow",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/shinobi_shadow.webp",
+        "aliases": []
+      },
+      {
+        "id": "sphinx-cowl-bx",
+        "name": "Sphinx Cowl",
+        "short": "Sphinx Cowl",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/sphinx_cowl.webp",
+        "aliases": []
+      },
+      {
+        "id": "steel-samurai-bx",
+        "name": "Steel Samurai",
+        "short": "Steel Samurai",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/steel_samurai.webp",
+        "aliases": []
+      },
+      {
+        "id": "tackle-goat-bx",
+        "name": "Tackle Goat",
+        "short": "Tackle Goat",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/tackle_goat.webp",
+        "aliases": []
+      },
+      {
+        "id": "talon-ptera-bx",
+        "name": "Talon Ptera",
+        "short": "Talon Ptera",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/talon_ptera.webp",
+        "aliases": []
+      },
+      {
+        "id": "tricera-press-bx",
+        "name": "Tricera Press",
+        "short": "Tricera Press",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/tricera_press.webp",
+        "aliases": []
+      },
+      {
+        "id": "tyranno-beat-bx",
+        "name": "Tyranno Beat",
+        "short": "Tyranno Beat",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/tyranno_beat.webp",
+        "aliases": []
+      },
+      {
+        "id": "unicorn-sting-bx",
+        "name": "Unicorn Sting",
+        "short": "Unicorn Sting",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/unicorn_sting.webp",
+        "aliases": []
+      },
+      {
+        "id": "viper-tail-bx",
+        "name": "Viper Tail",
+        "short": "Viper Tail",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/viper_tail.webp",
+        "aliases": []
+      },
+      {
+        "id": "weiss-tiger-bx",
+        "name": "Weiss Tiger",
+        "short": "Weiss Tiger",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/weiss_tiger.webp",
+        "aliases": []
+      },
+      {
+        "id": "whale-wave-bx",
+        "name": "Whale Wave",
+        "short": "Whale Wave",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/whale_wave.webp",
+        "aliases": []
+      },
+      {
+        "id": "wizard-arrow-bx",
+        "name": "Wizard Arrow",
+        "short": "Wizard Arrow",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/wizard_arrow.webp",
+        "aliases": []
+      },
+      {
+        "id": "wyvern-gale-bx",
+        "name": "Wyvern Gale",
+        "short": "Wyvern Gale",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/wyvern_gale.webp",
+        "aliases": []
+      },
+      {
+        "id": "yell-kong-bx",
+        "name": "Yell Kong",
+        "short": "Yell Kong",
+        "system": "BX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/bx/yell_kong.webp",
+        "aliases": []
+      },
+      {
+        "id": "dran-buster-ux",
+        "name": "Dran Buster",
+        "short": "Dran Buster",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/dran_buster.webp",
+        "aliases": []
+      },
+      {
+        "id": "ghost-circle-ux",
+        "name": "Ghost Circle",
+        "short": "Ghost Circle",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/ghost_circle.webp",
+        "aliases": []
+      },
+      {
+        "id": "golem-rock-ux",
+        "name": "Golem Rock",
+        "short": "Golem Rock",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/golem_rock.webp",
+        "aliases": []
+      },
+      {
+        "id": "hells-hammer-ux",
+        "name": "Hells Hammer",
+        "short": "Hells Hammer",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/hells_hammer.webp",
+        "aliases": []
+      },
+      {
+        "id": "hover-wyvern-ux",
+        "name": "Hover Wyvern",
+        "short": "Hover Wyvern",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/hover_wyvern.webp",
+        "aliases": []
+      },
+      {
+        "id": "impact-drake-ux",
+        "name": "Impact Drake",
+        "short": "Impact Drake",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/impact_drake.webp",
+        "aliases": []
+      },
+      {
+        "id": "knight-mail-ux",
+        "name": "Knight Mail",
+        "short": "Knight Mail",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/knight_mail.webp",
+        "aliases": []
+      },
+      {
+        "id": "leon-crest-ux",
+        "name": "Leon Crest",
+        "short": "Leon Crest",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/leon_crest.webp",
+        "aliases": []
+      },
+      {
+        "id": "phoenix-rudder-ux",
+        "name": "Phoenix Rudder",
+        "short": "Phoenix Rudder",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/phoenix_rudder.webp",
+        "aliases": []
+      },
+      {
+        "id": "scorpio-spear-ux",
+        "name": "Scorpio Spear",
+        "short": "Scorpio Spear",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/scorpio_spear.webp",
+        "aliases": []
+      },
+      {
+        "id": "shark-scale-ux",
+        "name": "Shark Scale",
+        "short": "Shark Scale",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/shark_scale.webp",
+        "aliases": []
+      },
+      {
+        "id": "silver-wolf-ux",
+        "name": "Silver Wolf",
+        "short": "Silver Wolf",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/silver_wolf.webp",
+        "aliases": []
+      },
+      {
+        "id": "wizard-rod-ux",
+        "name": "Wizard Rod",
+        "short": "Wizard Rod",
+        "system": "UX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/ux/wizard_rod.webp",
+        "aliases": []
+      },
+      {
+        "id": "arc-cx",
+        "name": "Arc",
+        "short": "Arc",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/arc.webp",
+        "aliases": []
+      },
+      {
+        "id": "blast-cx",
+        "name": "Blast",
+        "short": "Blast",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/blast.webp",
+        "aliases": []
+      },
+      {
+        "id": "brave-cx",
+        "name": "Brave",
+        "short": "Brave",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/brave.webp",
+        "aliases": []
+      },
+      {
+        "id": "brush-cx",
+        "name": "Brush",
+        "short": "Brush",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/brush.webp",
+        "aliases": []
+      },
+      {
+        "id": "dark-cx",
+        "name": "Dark",
+        "short": "Dark",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/dark.webp",
+        "aliases": []
+      },
+      {
+        "id": "flame-cx",
+        "name": "Flame",
+        "short": "Flame",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/flame.webp",
+        "aliases": []
+      },
+      {
+        "id": "reaper-cx",
+        "name": "Reaper",
+        "short": "Reaper",
+        "system": "CX",
+        "config": "integrated",
+        "category": "canon",
+        "path": "blade/cx/reaper.webp",
+        "aliases": []
+      },
+      {
+        "id": "iron-man-collab",
+        "name": "Iron Man",
+        "short": "Iron Man",
+        "system": "BX",
+        "config": "integrated",
+        "category": "collab",
+        "path": "blade/collabs/iron_man.webp",
+        "aliases": []
+      },
+      {
+        "id": "dranzer-spiral-xover",
+        "name": "Dranzer Spiral",
+        "short": "Dranzer Spiral",
+        "system": "BX",
+        "config": "standard",
+        "category": "xover",
+        "path": "blade/xover/dranzer_spiral.webp",
+        "aliases": []
+      },
+      {
+        "id": "storm-pegasis-xover",
+        "name": "Storm Pegasis",
+        "short": "Storm Pegasis",
+        "system": "BX",
+        "config": "standard",
+        "category": "xover",
+        "path": "blade/xover/storm_pegasis.webp",
+        "aliases": []
+      },
+      {
+        "id": "victory-valkyrie-xover",
+        "name": "Victory Valkyrie",
+        "short": "Victory Valkyrie",
+        "system": "BX",
+        "config": "standard",
+        "category": "xover",
+        "path": "blade/xover/victory_valkyrie.webp",
+        "aliases": []
+      }
+    ],
+    "rachet": [
+      {
+        "id": "0-70",
+        "name": "0-70",
+        "short": "0-70",
+        "type": "standard",
+        "path": "rachet/standard/0-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "0-80",
+        "name": "0-80",
+        "short": "0-80",
+        "type": "standard",
+        "path": "rachet/standard/0-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "1-60",
+        "name": "1-60",
+        "short": "1-60",
+        "type": "standard",
+        "path": "rachet/standard/1-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "1-70",
+        "name": "1-70",
+        "short": "1-70",
+        "type": "standard",
+        "path": "rachet/standard/1-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "1-80",
+        "name": "1-80",
+        "short": "1-80",
+        "type": "standard",
+        "path": "rachet/standard/1-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "2-60",
+        "name": "2-60",
+        "short": "2-60",
+        "type": "standard",
+        "path": "rachet/standard/2-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "2-70",
+        "name": "2-70",
+        "short": "2-70",
+        "type": "standard",
+        "path": "rachet/standard/2-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "2-80",
+        "name": "2-80",
+        "short": "2-80",
+        "type": "standard",
+        "path": "rachet/standard/2-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "3-60",
+        "name": "3-60",
+        "short": "3-60",
+        "type": "standard",
+        "path": "rachet/standard/3-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "3-70",
+        "name": "3-70",
+        "short": "3-70",
+        "type": "standard",
+        "path": "rachet/standard/3-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "3-80",
+        "name": "3-80",
+        "short": "3-80",
+        "type": "standard",
+        "path": "rachet/standard/3-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "3-85",
+        "name": "3-85",
+        "short": "3-85",
+        "type": "standard",
+        "path": "rachet/standard/3-85.webp",
+        "aliases": []
+      },
+      {
+        "id": "4-50",
+        "name": "4-50",
+        "short": "4-50",
+        "type": "standard",
+        "path": "rachet/standard/4-50.webp",
+        "aliases": []
+      },
+      {
+        "id": "4-55",
+        "name": "4-55",
+        "short": "4-55",
+        "type": "standard",
+        "path": "rachet/standard/4-55.webp",
+        "aliases": []
+      },
+      {
+        "id": "4-60",
+        "name": "4-60",
+        "short": "4-60",
+        "type": "standard",
+        "path": "rachet/standard/4-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "4-70",
+        "name": "4-70",
+        "short": "4-70",
+        "type": "standard",
+        "path": "rachet/standard/4-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "4-80",
+        "name": "4-80",
+        "short": "4-80",
+        "type": "standard",
+        "path": "rachet/standard/4-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "5-60",
+        "name": "5-60",
+        "short": "5-60",
+        "type": "standard",
+        "path": "rachet/standard/5-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "5-70",
+        "name": "5-70",
+        "short": "5-70",
+        "type": "standard",
+        "path": "rachet/standard/5-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "5-80",
+        "name": "5-80",
+        "short": "5-80",
+        "type": "standard",
+        "path": "rachet/standard/5-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "6-60",
+        "name": "6-60",
+        "short": "6-60",
+        "type": "standard",
+        "path": "rachet/standard/6-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "6-70",
+        "name": "6-70",
+        "short": "6-70",
+        "type": "standard",
+        "path": "rachet/standard/6-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "6-80",
+        "name": "6-80",
+        "short": "6-80",
+        "type": "standard",
+        "path": "rachet/standard/6-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "7-60",
+        "name": "7-60",
+        "short": "7-60",
+        "type": "standard",
+        "path": "rachet/standard/7-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "7-70",
+        "name": "7-70",
+        "short": "7-70",
+        "type": "standard",
+        "path": "rachet/standard/7-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "7-80",
+        "name": "7-80",
+        "short": "7-80",
+        "type": "standard",
+        "path": "rachet/standard/7-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "9-60",
+        "name": "9-60",
+        "short": "9-60",
+        "type": "standard",
+        "path": "rachet/standard/9-60.webp",
+        "aliases": []
+      },
+      {
+        "id": "9-70",
+        "name": "9-70",
+        "short": "9-70",
+        "type": "standard",
+        "path": "rachet/standard/9-70.webp",
+        "aliases": []
+      },
+      {
+        "id": "9-80",
+        "name": "9-80",
+        "short": "9-80",
+        "type": "standard",
+        "path": "rachet/standard/9-80.webp",
+        "aliases": []
+      },
+      {
+        "id": "m-85",
+        "name": "M 85",
+        "short": "M 85",
+        "type": "standard",
+        "path": "rachet/standard/M-85.webp",
+        "aliases": []
+      },
+      {
+        "id": "turbo",
+        "name": "Turbo",
+        "short": "Turbo",
+        "type": "integrated",
+        "path": "rachet/integrated/turbo.webp",
+        "aliases": []
+      }
+    ],
+    "bit": [
+      {
+        "id": "accel",
+        "name": "Accel",
+        "short": "A",
+        "path": "bit/standard/accel.webp",
+        "aliases": []
+      },
+      {
+        "id": "ball",
+        "name": "Ball",
+        "short": "B",
+        "path": "bit/standard/ball.webp",
+        "aliases": []
+      },
+      {
+        "id": "bound-spike",
+        "name": "Bound Spike",
+        "short": "BS",
+        "path": "bit/standard/bound_spike.webp",
+        "aliases": []
+      },
+      {
+        "id": "cyclone",
+        "name": "Cyclone",
+        "short": "C",
+        "path": "bit/standard/cyclone.webp",
+        "aliases": []
+      },
+      {
+        "id": "disk-ball",
+        "name": "Disk Ball",
+        "short": "DB",
+        "path": "bit/standard/disk_ball.webp",
+        "aliases": []
+      },
+      {
+        "id": "dot",
+        "name": "Dot",
+        "short": "D",
+        "path": "bit/standard/dot.webp",
+        "aliases": []
+      },
+      {
+        "id": "elevate",
+        "name": "Elevate",
+        "short": "E",
+        "path": "bit/standard/elevate.webp",
+        "aliases": []
+      },
+      {
+        "id": "flat",
+        "name": "Flat",
+        "short": "F",
+        "path": "bit/standard/flat.webp",
+        "aliases": []
+      },
+      {
+        "id": "free-ball",
+        "name": "Free Ball",
+        "short": "FB",
+        "path": "bit/standard/free_ball.webp",
+        "aliases": []
+      },
+      {
+        "id": "gear-ball",
+        "name": "Gear Ball",
+        "short": "GB",
+        "path": "bit/standard/gear_ball.webp",
+        "aliases": []
+      },
+      {
+        "id": "gear-flat",
+        "name": "Gear Flat",
+        "short": "GF",
+        "path": "bit/standard/gear_flat.webp",
+        "aliases": []
+      },
+      {
+        "id": "gear-needle",
+        "name": "Gear Needle",
+        "short": "GN",
+        "path": "bit/standard/gear_needle.webp",
+        "aliases": []
+      },
+      {
+        "id": "gear-point",
+        "name": "Gear Point",
+        "short": "GP",
+        "path": "bit/standard/gear_point.webp",
+        "aliases": []
+      },
+      {
+        "id": "gear-rush",
+        "name": "Gear Rush",
+        "short": "GR",
+        "path": "bit/standard/gear_rush.webp",
+        "aliases": []
+      },
+      {
+        "id": "glide",
+        "name": "Glide",
+        "short": "G",
+        "path": "bit/standard/glide.webp",
+        "aliases": []
+      },
+      {
+        "id": "hexa",
+        "name": "Hexa",
+        "short": "H",
+        "path": "bit/standard/hexa.webp",
+        "aliases": []
+      },
+      {
+        "id": "high-needle",
+        "name": "High Needle",
+        "short": "HN",
+        "path": "bit/standard/high_needle.webp",
+        "aliases": []
+      },
+      {
+        "id": "high-taper",
+        "name": "High Taper",
+        "short": "HT",
+        "path": "bit/standard/high_taper.webp",
+        "aliases": []
+      },
+      {
+        "id": "kick",
+        "name": "Kick",
+        "short": "K",
+        "path": "bit/standard/kick.webp",
+        "aliases": []
+      },
+      {
+        "id": "level",
+        "name": "Level",
+        "short": "L",
+        "path": "bit/standard/level.webp",
+        "aliases": []
+      },
+      {
+        "id": "low-flat",
+        "name": "Low Flat",
+        "short": "LF",
+        "path": "bit/standard/low_flat.webp",
+        "aliases": []
+      },
+      {
+        "id": "low-orb",
+        "name": "Low Orb",
+        "short": "LO",
+        "path": "bit/standard/low_orb.webp",
+        "aliases": []
+      },
+      {
+        "id": "low-rush",
+        "name": "Low Rush",
+        "short": "LR",
+        "path": "bit/standard/low_rush.webp",
+        "aliases": []
+      },
+      {
+        "id": "merge",
+        "name": "Merge",
+        "short": "M",
+        "path": "bit/standard/merge.webp",
+        "aliases": []
+      },
+      {
+        "id": "metal-needle",
+        "name": "Metal Needle",
+        "short": "MN",
+        "path": "bit/standard/metal_needle.webp",
+        "aliases": []
+      },
+      {
+        "id": "needle",
+        "name": "Needle",
+        "short": "N",
+        "path": "bit/standard/needle.webp",
+        "aliases": []
+      },
+      {
+        "id": "orb",
+        "name": "Orb",
+        "short": "O",
+        "path": "bit/standard/orb.webp",
+        "aliases": []
+      },
+      {
+        "id": "point",
+        "name": "Point",
+        "short": "P",
+        "path": "bit/standard/point.webp",
+        "aliases": []
+      },
+      {
+        "id": "quake",
+        "name": "Quake",
+        "short": "Q",
+        "path": "bit/standard/quake.webp",
+        "aliases": []
+      },
+      {
+        "id": "rubber-accel",
+        "name": "Rubber Accel",
+        "short": "RA",
+        "path": "bit/standard/rubber_accel.webp",
+        "aliases": []
+      },
+      {
+        "id": "rush",
+        "name": "Rush",
+        "short": "R",
+        "path": "bit/standard/rush.webp",
+        "aliases": []
+      },
+      {
+        "id": "spike",
+        "name": "Spike",
+        "short": "S",
+        "path": "bit/standard/spike.webp",
+        "aliases": []
+      },
+      {
+        "id": "taper",
+        "name": "Taper",
+        "short": "T",
+        "path": "bit/standard/taper.webp",
+        "aliases": []
+      },
+      {
+        "id": "trans-kick",
+        "name": "Trans Kick",
+        "short": "TK",
+        "path": "bit/standard/trans_kick.webp",
+        "aliases": []
+      },
+      {
+        "id": "trans-point",
+        "name": "Trans Point",
+        "short": "TP",
+        "path": "bit/standard/trans_point.webp",
+        "aliases": []
+      },
+      {
+        "id": "under-flat",
+        "name": "Under Flat",
+        "short": "UF",
+        "path": "bit/standard/under_flat.webp",
+        "aliases": []
+      },
+      {
+        "id": "under-needle",
+        "name": "Under Needle",
+        "short": "UN",
+        "path": "bit/standard/under_needle.webp",
+        "aliases": []
+      },
+      {
+        "id": "unite",
+        "name": "Unite",
+        "short": "U",
+        "path": "bit/standard/unite.webp",
+        "aliases": []
+      },
+      {
+        "id": "vortex",
+        "name": "Vortex",
+        "short": "V",
+        "path": "bit/standard/vortex.webp",
+        "aliases": []
+      },
+      {
+        "id": "wall-ball",
+        "name": "Wall Ball",
+        "short": "WB",
+        "path": "bit/standard/wall_ball.webp",
+        "aliases": []
+      },
+      {
+        "id": "wedge",
+        "name": "Wedge",
+        "short": "W",
+        "path": "bit/standard/wedge.webp",
+        "aliases": []
+      },
+      {
+        "id": "zap",
+        "name": "Zap",
+        "short": "Z",
+        "path": "bit/standard/zap.webp",
+        "aliases": []
+      }
+    ],
+    "chip": [
+      {
+        "id": "cerberus-chip",
+        "name": "Cerberus Chip",
+        "short": "Cerberus",
+        "path": "blade/chip/cerberus.webp",
+        "aliases": []
+      },
+      {
+        "id": "dran-chip",
+        "name": "Dran Chip",
+        "short": "Dran",
+        "path": "blade/chip/dran.webp",
+        "aliases": []
+      },
+      {
+        "id": "fox-chip",
+        "name": "Fox Chip",
+        "short": "Fox",
+        "path": "blade/chip/fox.webp",
+        "aliases": []
+      },
+      {
+        "id": "hells-chip",
+        "name": "Hells Chip",
+        "short": "Hells",
+        "path": "blade/chip/hells.webp",
+        "aliases": []
+      },
+      {
+        "id": "pegasus-chip",
+        "name": "Pegasus Chip",
+        "short": "Pegasus",
+        "path": "blade/chip/pegasus.webp",
+        "aliases": []
+      },
+      {
+        "id": "rhino-chip",
+        "name": "Rhino Chip",
+        "short": "Rhino",
+        "path": "blade/chip/rhino.webp",
+        "aliases": []
+      },
+      {
+        "id": "whale-chip",
+        "name": "Whale Chip",
+        "short": "Whale",
+        "path": "blade/chip/whale.webp",
+        "aliases": []
+      },
+      {
+        "id": "wizard-chip",
+        "name": "Wizard Chip",
+        "short": "Wizard",
+        "path": "blade/chip/wizard.webp",
+        "aliases": []
+      }
+    ],
+    "assist": [
+      {
+        "id": "assault-assist-blade",
+        "name": "Assault Assist Blade",
+        "short": "A",
+        "path": "blade/assist/assault.webp",
+        "aliases": []
+      },
+      {
+        "id": "bumper-assist-blade",
+        "name": "Bumper Assist Blade",
+        "short": "B",
+        "path": "blade/assist/bumper.webp",
+        "aliases": []
+      },
+      {
+        "id": "charge-assist-blade",
+        "name": "Charge Assist Blade",
+        "short": "C",
+        "path": "blade/assist/charge.webp",
+        "aliases": []
+      },
+      {
+        "id": "jaggy-assist-blade",
+        "name": "Jaggy Assist Blade",
+        "short": "J",
+        "path": "blade/assist/jaggy.webp",
+        "aliases": []
+      },
+      {
+        "id": "massive-assist-blade",
+        "name": "Massive Assist Blade",
+        "short": "M",
+        "path": "blade/assist/massive.webp",
+        "aliases": []
+      },
+      {
+        "id": "round-assist-blade",
+        "name": "Round Assist Blade",
+        "short": "R",
+        "path": "blade/assist/round.webp",
+        "aliases": []
+      },
+      {
+        "id": "slash-assist-blade",
+        "name": "Slash Assist Blade",
+        "short": "S",
+        "path": "blade/assist/slash.webp",
+        "aliases": []
+      },
+      {
+        "id": "turn-assist-blade",
+        "name": "Turn Assist Blade",
+        "short": "T",
+        "path": "blade/assist/turn.webp",
+        "aliases": []
+      },
+      {
+        "id": "wheel-assist-blade",
+        "name": "Wheel Assist Blade",
+        "short": "W",
+        "path": "blade/assist/wheel.webp",
+        "aliases": []
+      }
+    ]
+  }
+}
