@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2025-08-13+150",
+  "version": "2025-08-14+150",
   "parts": {
     "blade": [
       {
@@ -131,16 +131,6 @@
         "config": "integrated",
         "category": "canon",
         "path": "blade/bx/leon_claw.webp",
-        "aliases": []
-      },
-      {
-        "id": "perseus-bx",
-        "name": "Perseus",
-        "short": "Perseus",
-        "system": "BX",
-        "config": "integrated",
-        "category": "canon",
-        "path": "blade/bx/perseus.webp",
         "aliases": []
       },
       {
@@ -1184,6 +1174,13 @@
         "name": "Pegasus Chip",
         "short": "Pegasus",
         "path": "blade/chip/pegasus.webp",
+        "aliases": []
+      },
+      {
+        "id": "perseus-chip",
+        "name": "Perseus Chip",
+        "short": "Perseus",
+        "path": "blade/chip/perseus.webp",
         "aliases": []
       },
       {
